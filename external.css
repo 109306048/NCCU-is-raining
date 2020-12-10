@@ -1,0 +1,21 @@
+body
+{
+  background-color: CadetBlue;
+}
+.h1
+{
+    margin-left: auto;
+    color:Azure;
+    background-color:olive; 
+    font-size: 50px;
+}
+.h2
+{
+	margin-right: auto;
+	font-family: fantasy;
+}
+#img
+{
+    width: 50%;
+    height: 50%;
+}
